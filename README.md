@@ -12,8 +12,6 @@
 
 https://pmg1989.github.io
 
-###备注：
-
 - 登录账号 用户名：admin，密码：admin
 - 由于gitpage是静态服务器，刷新后会出现404是正常现象，部署正式服务器即可，具体服务端配置可参见[dva issues 180](https://github.com/dvajs/dva/issues/180)
 
@@ -23,6 +21,7 @@ https://pmg1989.github.io
 - 基于[Mock](https://github.com/nuysoft/Mock)实现脱离后端独立开发
 - 基于Antd UI 设计语言，提供后台管理系统常见使用场景
 - 浅度响应式设计
+- webpack打包处理路由时，实现Javascript模块化按需动态dynamic加载
 
 ## 开发及构建
 
