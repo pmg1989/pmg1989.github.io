@@ -22,6 +22,7 @@ https://pmg1989.github.io
 - 基于Antd UI 设计语言，提供后台管理系统常见使用场景
 - 浅度响应式设计
 - webpack打包处理路由时，实现Javascript模块化按需动态dynamic加载
+- 已实现基本完善的权限管理功能
 
 ## 开发及构建
 
