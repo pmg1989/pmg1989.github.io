@@ -8,6 +8,15 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/pmg1989/dva-admin/pulls)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
+## 演示地址
+
+https://pmg1989.github.io
+
+###备注：
+
+- 登录账号 用户名：admin，密码：admin
+- 由于gitpage是静态服务器，刷新后会出现404是正常现象，部署正式服务器即可，具体服务端配置可参见[dva issues 180](https://github.com/dvajs/dva/issues/180)
+
 ## 特性
 
 - 基于[react](https://github.com/facebook/react)，[ant-design](https://github.com/ant-design/ant-design)，[dva](https://github.com/dvajs/dva)，[Mock](https://github.com/nuysoft/Mock) 企业级后台管理系统最佳实践
@@ -78,7 +87,7 @@ npm run build
 
 ## 参考
 
-antd-admin: https://github.com/zuiidea/antd-admin
+antd-admin：https://github.com/zuiidea/antd-admin
 
 用户列表：https://github.com/dvajs/dva-example-user-dashboard
 
