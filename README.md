@@ -92,3 +92,5 @@ antd-admin：https://github.com/zuiidea/antd-admin
 用户列表：https://github.com/dvajs/dva-example-user-dashboard
 
 dashboard设计稿：https://dribbble.com/shots/3108122-Dashboard-Admin
+
+const mod = (num, max) => ((num % max) + max) % max
